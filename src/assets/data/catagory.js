@@ -4,17 +4,17 @@ const categories = [
 		items: [
 			{
 				name: 'Small appliances',
-				image: '/src/assets/images/catagories/small_appliances.jpg',
+				image: '/catagories/small_appliances.jpg',
 			},
 			{
 				name: 'Kitchen',
-				image: '/src/assets/images/catagories/Kitchen.jpg',
+				image: '/catagories/Kitchen.jpg',
 			},
 			{
 				name: 'Furniture',
-				image: '/src/assets/images/catagories/furniture.jpg',
+				image: '/catagories/furniture.jpg',
 			},
-			{ name: 'Storage', image: '/src/assets/images/catagories/storage.jpg' },
+			{ name: 'Storage', image: '/catagories/storage.jpg' },
 			{ link: 'Discover' },
 		],
 	},
@@ -23,16 +23,16 @@ const categories = [
 		items: [
 			{
 				name: 'Computers',
-				image: '/src/assets/images/catagories/computer.jpg',
+				image: '/catagories/computer.jpg',
 			},
-			{ name: 'Phones', image: '/src/assets/images/catagories/phones.jpg' },
+			{ name: 'Phones', image: '/catagories/phones.jpg' },
 			{
 				name: 'Headphones',
-				image: '/src/assets/images/catagories/headphones.jpg',
+				image: '/catagories/headphones.jpg',
 			},
 			{
 				name: 'Virtual reality',
-				image: '/src/assets/images/catagories/vertualReality.jpg',
+				image: '/catagories/vertualReality.jpg',
 			},
 			{ link: 'Explore' },
 		],
@@ -42,16 +42,16 @@ const categories = [
 		items: [
 			{
 				name: 'Fitness & bodybuilding',
-				image: '/src/assets/images/catagories/fitness.jpg',
+				image: '/catagories/fitness.jpg',
 			},
-			{ name: 'Running', image: '/src/assets/images/catagories/running.jpg' },
+			{ name: 'Running', image: '/catagories/running.jpg' },
 			{
 				name: 'Sportswear',
-				image: '/src/assets/images/catagories/sportwear.jpg',
+				image: '/catagories/sportwear.jpg',
 			},
 			{
 				name: 'Sports shoes',
-				image: '/src/assets/images/catagories/sportshoes.jpg',
+				image: '/catagories/sportshoes.jpg',
 			},
 			{ link: 'Discover' },
 		],
@@ -61,24 +61,24 @@ const categories = [
 		items: [
 			{
 				name: 'Furniture',
-				image: '/src/assets/images/catagories/furniturlawn.jpg',
+				image: '/catagories/furniturlawn.jpg',
 			},
 			{
 				name: 'Lawnmowers',
-				image: '/src/assets/images/catagories/lawnmowers.jpg',
+				image: '/catagories/lawnmowers.jpg',
 			},
-			{ name: 'Barbecue', image: '/src/assets/images/catagories/barbecue.jpg' },
-			{ name: 'Lighting', image: '/src/assets/images/catagories/lighting.jpg' },
+			{ name: 'Barbecue', image: '/catagories/barbecue.jpg' },
+			{ name: 'Lighting', image: '/catagories/lighting.jpg' },
 			{ link: 'Discover' },
 		],
 	},
 	{
 		title: 'Sport & leisure',
 		items: [
-			{ name: 'Cycling', image: '/src/assets/images/catagories/cycling.jpg' },
-			{ name: 'Hiking', image: '/src/assets/images/catagories/hiking.jpg' },
-			{ name: 'Football', image: '/src/assets/images/catagories/football.jpg' },
-			{ name: 'Fan shop', image: '/src/assets/images/catagories/fanshop.jpg' },
+			{ name: 'Cycling', image: '/catagories/cycling.jpg' },
+			{ name: 'Hiking', image: '/catagories/hiking.jpg' },
+			{ name: 'Football', image: '/catagories/football.jpg' },
+			{ name: 'Fan shop', image: '/catagories/fanshop.jpg' },
 			{ link: 'see more' },
 		],
 	},
@@ -87,16 +87,16 @@ const categories = [
 		items: [
 			{
 				name: 'Skin care',
-				image: '/src/assets/images/catagories/skincare.jpg',
+				image: '/catagories/skincare.jpg',
 			},
-			{ name: 'Makeup', image: '/src/assets/images/catagories/makeup.jpg' },
+			{ name: 'Makeup', image: '/catagories/makeup.jpg' },
 			{
 				name: 'Fragrances',
-				image: '/src/assets/images/catagories/fragrances.jpg',
+				image: '/catagories/fragrances.jpg',
 			},
 			{
 				name: 'Hairstyling',
-				image: '/src/assets/images/catagories/hairstyling.jpg',
+				image: '/catagories/hairstyling.jpg',
 			},
 			{ link: 'Discover' },
 		],
@@ -106,16 +106,16 @@ const categories = [
 		items: [
 			{
 				name: 'Monitors',
-				image: '/src/assets/images/catagories/monitors.jpg',
+				image: '/catagories/monitors.jpg',
 			},
-			{ name: 'Desks', image: '/src/assets/images/catagories/desks.jpg' },
+			{ name: 'Desks', image: '/catagories/desks.jpg' },
 			{
 				name: 'Gaming accessories',
-				image: '/src/assets/images/catagories/gaming.jpg',
+				image: '/catagories/gaming.jpg',
 			},
 			{
 				name: 'Merchandise',
-				image: '/src/assets/images/catagories/merchendise.jpg',
+				image: '/catagories/merchendise.jpg',
 			},
 			{ link: 'Discover' },
 		],
@@ -125,19 +125,19 @@ const categories = [
 		items: [
 			{
 				name: 'Desktop computers',
-				image: '/src/assets/images/catagories/desktopcomp.jpg',
+				image: '/catagories/desktopcomp.jpg',
 			},
 			{
 				name: 'Laptop computers',
-				image: '/src/assets/images/catagories/laptopcomp.jpg',
+				image: '/catagories/laptopcomp.jpg',
 			},
 			{
 				name: 'Tablets',
-				image: '/src/assets/images/catagories/tablet.jpg',
+				image: '/catagories/tablet.jpg',
 			},
 			{
 				name: 'Office supplies',
-				image: '/src/assets/images/catagories/officesupplies.jpg',
+				image: '/catagories/officesupplies.jpg',
 			},
 			{ link: 'Discover' },
 		],

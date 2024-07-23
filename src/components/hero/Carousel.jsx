@@ -44,7 +44,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/619CNqTTLPL._SX3000_.jpg"
+						src="/carousel/619CNqTTLPL._SX3000_.jpg"
 						alt="Slide 1"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -52,7 +52,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/71k2k2dIgfL._SX3000_.jpg"
+						src="/carousel/71k2k2dIgfL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -60,7 +60,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/61UR8Xo7cIL._SX3000_.jpg"
+						src="/carousel/61UR8Xo7cIL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -68,7 +68,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/71QeC6IOP5L._SX3000_.jpg"
+						src="/carousel/71QeC6IOP5L._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -76,7 +76,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/71-uacoDd-L._SX3000_.jpg"
+						src="/carousel/71-uacoDd-L._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -84,7 +84,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/616G6UnuBqL._SX3000_.jpg"
+						src="/carousel/616G6UnuBqL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -92,7 +92,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/61yuTNhxjJL._SX3000_.jpg"
+						src="/carousel/61yuTNhxjJL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -100,7 +100,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/71akqO4tMcL._SX3000_.jpg"
+						src="/carousel/71akqO4tMcL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -108,7 +108,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/71Lt953nctL._SX3000_.jpg"
+						src="/carousel/71Lt953nctL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -116,7 +116,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/719BP-8lfWL._SX3000_.jpg"
+						src="/carousel/719BP-8lfWL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
@@ -124,7 +124,7 @@ const Carousel = () => {
 				<div className="relative">
 					<img
 						className="w-full h-full object-cover"
-						src="/src/assets/images/carousel/61iiS6eXWgL._SX3000_.jpg"
+						src="/carousel/61iiS6eXWgL._SX3000_.jpg"
 						alt="Slide 2"
 					/>
 					<div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-white to-transparent"></div>
