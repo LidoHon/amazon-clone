@@ -57,7 +57,7 @@ const Header = () => {
 					>
 						<img
 							className="w-15 h-10 mx-1 pt-2 logo"
-							src="../../../public/header/pngimg.com - amazon_PNG11.png"
+							src="/header/pngimg.com - amazon_PNG11.png"
 							alt="amazon"
 						/>
 					</Link>
@@ -111,7 +111,7 @@ const Header = () => {
 								<div className="flex flex-row py-2 px-2 border border-transparent hover:border-white duration-300 items-center justify-center h-[90%] ">
 									<img
 										className="w-5 h-5"
-										src="../../../public/header/Flag_of_France.svg.png"
+										src="/header/Flag_of_France.svg.png"
 										alt=""
 									/>
 									<h1 className="font-semibold  ml-2">EN</h1>
