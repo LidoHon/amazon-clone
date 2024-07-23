@@ -180,7 +180,7 @@ const FooterMiddle = () => {
 				<div className="bg-gray-700 pb-8 flex flex-row justify-center gap-4">
 					<div className="flex justify-center mt-8">
 						<img
-							src="/src/assets/images/header/pngimg.com - amazon_PNG11.png"
+							src="/header/pngimg.com - amazon_PNG11.png"
 							alt="Amazon Logo"
 							className="w-28 h-10 object-contain cursor-pointer"
 						/>
