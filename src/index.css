@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .mini-header ul li:hover {
+	border: 2px solid white;
+	border-radius: 3px;
+}
+
+.logo:hover {
+	border: 2px solid white;
+	border-radius: 3px;
+    padding: 10px;
+} */
+body {
+	background-color: #e3e6e6;
+}
+
+.catagory {
+	position: relative;
+	margin-top: -21%;
+	place-items: center;
+}
+
+/* .custom-arrow {
+	display: flex !important;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	color: black;
+} */
+
+.slick-slide > div {
+	margin: 0 10px;
+}
+
+/* Custom slick carousel styles */
+.slick-prev:before,
+.slick-next:before {
+	color: black; /* Change the color of the arrows */
+}
+
+.slick-dots li button:before {
+	color: black; /* Change the color of the dots */
+}
+
+.slick-dots li.slick-active button:before {
+	color: red; /* Change the color of the active dot */
+}
+/* .card-container {
+	width: 250px;
+	box-shadow: 0 0 10 black;
+	padding: 10px;
+	column-rule: black;
+	text-decoration: none;
+	position: relative;
+} */
